@@ -1,0 +1,47 @@
+_repo: The-Dramatic-Works-of-G.-E.-LessingMiss-Sara-Sampson-Philotas-Emilia-Galotti-Nathan-the-Wise_33435
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Zimmern, Helen
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '1466'
+    url: http://www.gutenberg.org/2009/agents/1466
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Zimmern
+  translator:
+    agent_name: Bell, Ernest
+    birthdate: 1851
+    deathdate: 1933
+    gutenberg_agent_id: '39551'
+    url: http://www.gutenberg.org/2009/agents/39551
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: v. 1. Tragedies (Miss Sara Sampson ; Philotas ; Emilia Galotti ; Nathan
+  the Wise) -- v. 2. Comedies (Damon, or True Friendship ; The young scholar ; The
+  old maid ; The woman-hater ; The Jews ; The freethinker ; The treasure ; Minna von
+  Barnhelm).
+gutenberg_issued: '2010-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into English'
+- !lcc 'PT'
+title: 'The Dramatic Works of G. E. Lessing
+
+  Miss Sara Sampson, Philotas, Emilia Galotti, Nathan the Wise'
+url: http://www.gutenberg.org/ebooks/33435
